@@ -1,5 +1,5 @@
 /* English Flow Lab — service worker: guarda o app no aparelho para abrir sem internet. */
-const VERSION = '02b6e1a93c';
+const VERSION = '0ee2674d4c';
 const SHELL = 'efl-shell-' + VERSION;
 const CDN = 'efl-cdn-v1';
 const SHELL_FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
